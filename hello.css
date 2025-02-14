@@ -1,0 +1,27 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Heading style */
+h1 {
+    font-size: 48px;
+    color: #00796b;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+/* Hover effect for the text */
+h1:hover {
+    color: #004d40;
+    transform: scale(1.1);
+}
