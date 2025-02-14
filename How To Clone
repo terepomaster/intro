@@ -1,0 +1,1 @@
+From the list of repositories, click the repository you want to clone. To select the local directory into which you want to clone the repository, next to the "Local Path" field, click Choose... and navigate to the directory. At the bottom of the "Clone a Repository" window, click Clone.
